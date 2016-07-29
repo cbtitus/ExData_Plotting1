@@ -1,3 +1,8 @@
+
+## Exploratory Data Analyis Week 1 project
+### cbtitus
+Note, the forked repo has a folder called "figure" which was already populated with 4 pngs by Roger Peng. The code I've written and the figures I've generated are all in the root of my repository.
+
 ## Introduction
 
 This assignment uses data from
