@@ -3,6 +3,17 @@
 ### cbtitus
 Note, the forked repo has a folder called "figure" which was already populated with 4 pngs by Roger Peng. The code I've written and the figures I've generated are all in the root of my repository.
 
+## Files in the repo
+* plot1.R
+* plot2.R
+* plot3.R
+* plot4.R
+* plot1.png
+* plot2.png
+* plot3.png
+* plot4.png
+* README.md (this file)
+
 ## Introduction
 
 This assignment uses data from
